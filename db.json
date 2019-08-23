@@ -1,0 +1,564 @@
+{
+  "users": [
+    {
+      "email": "lee.boyd@example.com",
+      "id": 10000,
+      "location": {
+        "city": "traralgon",
+        "coordinates": {
+          "latitude": "-9.8103",
+          "longitude": "-145.8609"
+        },
+        "postcode": 7034,
+        "state": "northern territory",
+        "street": "4698 central st",
+        "timezone": {
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent",
+          "offset": "+5:00"
+        }
+      },
+      "name": {
+        "first": "lee",
+        "last": "boyd",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/57.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+      }
+    },
+    {
+      "email": "norma.cole@example.com",
+      "id": 10001,
+      "location": {
+        "city": "warragul",
+        "coordinates": {
+          "latitude": "-66.1155",
+          "longitude": "163.3906"
+        },
+        "postcode": 4274,
+        "state": "australian capital territory",
+        "street": "5168 edwards rd",
+        "timezone": {
+          "description": "Adelaide, Darwin",
+          "offset": "+9:30"
+        }
+      },
+      "name": {
+        "first": "norma",
+        "last": "cole",
+        "title": "ms"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/59.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+      }
+    },
+    {
+      "email": "gerald.russell@example.com",
+      "id": 10002,
+      "location": {
+        "city": "wollongong",
+        "coordinates": {
+          "latitude": "-71.3494",
+          "longitude": "155.4345"
+        },
+        "postcode": 6055,
+        "state": "queensland",
+        "street": "4523 bruce st",
+        "timezone": {
+          "description": "Eastern Australia, Guam, Vladivostok",
+          "offset": "+10:00"
+        }
+      },
+      "name": {
+        "first": "gerald",
+        "last": "russell",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/38.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+      }
+    },
+    {
+      "email": "gloria.duncan@example.com",
+      "id": 10003,
+      "location": {
+        "city": "mackay",
+        "coordinates": {
+          "latitude": "48.5697",
+          "longitude": "-157.7564"
+        },
+        "postcode": 8606,
+        "state": "northern territory",
+        "street": "1276 e sandy lake rd",
+        "timezone": {
+          "description": "Magadan, Solomon Islands, New Caledonia",
+          "offset": "+11:00"
+        }
+      },
+      "name": {
+        "first": "gloria",
+        "last": "duncan",
+        "title": "miss"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/72.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
+      }
+    },
+    {
+      "email": "allan.jennings@example.com",
+      "id": 10004,
+      "location": {
+        "city": "queanbeyan",
+        "coordinates": {
+          "latitude": "-47.8351",
+          "longitude": "-45.9881"
+        },
+        "postcode": 2725,
+        "state": "western australia",
+        "street": "7452 hillcrest rd",
+        "timezone": {
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent",
+          "offset": "+5:00"
+        }
+      },
+      "name": {
+        "first": "allan",
+        "last": "jennings",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+      }
+    },
+    {
+      "email": "marjorie.howell@example.com",
+      "id": 10005,
+      "location": {
+        "city": "nowra",
+        "coordinates": {
+          "latitude": "85.2923",
+          "longitude": "-177.3134"
+        },
+        "postcode": 1996,
+        "state": "new south wales",
+        "street": "6376 walnut hill ln",
+        "timezone": {
+          "description": "Atlantic Time (Canada), Caracas, La Paz",
+          "offset": "-4:00"
+        }
+      },
+      "name": {
+        "first": "marjorie",
+        "last": "howell",
+        "title": "mrs"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/10.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+      }
+    },
+    {
+      "email": "don.watson@example.com",
+      "id": 10006,
+      "location": {
+        "city": "traralgon",
+        "coordinates": {
+          "latitude": "-40.0602",
+          "longitude": "105.7935"
+        },
+        "postcode": 9095,
+        "state": "new south wales",
+        "street": "249 bollinger rd",
+        "timezone": {
+          "description": "Tehran",
+          "offset": "+3:30"
+        }
+      },
+      "name": {
+        "first": "don",
+        "last": "watson",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/49.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+      }
+    },
+    {
+      "email": "nathaniel.hayes@example.com",
+      "id": 10007,
+      "location": {
+        "city": "shepparton",
+        "coordinates": {
+          "latitude": "88.1311",
+          "longitude": "-88.9476"
+        },
+        "postcode": 7353,
+        "state": "queensland",
+        "street": "2351 mockingbird hill",
+        "timezone": {
+          "description": "Atlantic Time (Canada), Caracas, La Paz",
+          "offset": "-4:00"
+        }
+      },
+      "name": {
+        "first": "nathaniel",
+        "last": "hayes",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/81.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+      }
+    },
+    {
+      "email": "diane.bishop@example.com",
+      "id": 10008,
+      "location": {
+        "city": "wagga wagga",
+        "coordinates": {
+          "latitude": "-55.1766",
+          "longitude": "-87.2231"
+        },
+        "postcode": 9653,
+        "state": "northern territory",
+        "street": "4476 paddock way",
+        "timezone": {
+          "description": "Adelaide, Darwin",
+          "offset": "+9:30"
+        }
+      },
+      "name": {
+        "first": "diane",
+        "last": "bishop",
+        "title": "mrs"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+      }
+    },
+    {
+      "email": "adrian.ortiz@example.com",
+      "id": 10009,
+      "location": {
+        "city": "warragul",
+        "coordinates": {
+          "latitude": "58.2711",
+          "longitude": "-114.9988"
+        },
+        "postcode": 6780,
+        "state": "northern territory",
+        "street": "982 wycliff ave",
+        "timezone": {
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg",
+          "offset": "+3:00"
+        }
+      },
+      "name": {
+        "first": "adrian",
+        "last": "ortiz",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/60.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+      }
+    },
+    {
+      "email": "anita.graves@example.com",
+      "id": 10010,
+      "location": {
+        "city": "mildura",
+        "coordinates": {
+          "latitude": "58.3306",
+          "longitude": "-4.8725"
+        },
+        "postcode": 2156,
+        "state": "victoria",
+        "street": "9258 woodland st",
+        "timezone": {
+          "description": "Midway Island, Samoa",
+          "offset": "-11:00"
+        }
+      },
+      "name": {
+        "first": "anita",
+        "last": "graves",
+        "title": "ms"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/63.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+      }
+    },
+    {
+      "email": "stephen.perez@example.com",
+      "id": 10011,
+      "location": {
+        "city": "geelong",
+        "coordinates": {
+          "latitude": "-52.1995",
+          "longitude": "95.1699"
+        },
+        "postcode": 5229,
+        "state": "western australia",
+        "street": "1795 lakeshore rd",
+        "timezone": {
+          "description": "Western Europe Time, London, Lisbon, Casablanca",
+          "offset": "0:00"
+        }
+      },
+      "name": {
+        "first": "stephen",
+        "last": "perez",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/40.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
+      }
+    },
+    {
+      "email": "gabriel.miles@example.com",
+      "id": 10012,
+      "location": {
+        "city": "devonport",
+        "coordinates": {
+          "latitude": "-19.0800",
+          "longitude": "-164.2751"
+        },
+        "postcode": 2519,
+        "state": "western australia",
+        "street": "8225 central st",
+        "timezone": {
+          "description": "Brussels, Copenhagen, Madrid, Paris",
+          "offset": "+1:00"
+        }
+      },
+      "name": {
+        "first": "gabriel",
+        "last": "miles",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/24.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+      }
+    },
+    {
+      "email": "greg.shaw@example.com",
+      "id": 10013,
+      "location": {
+        "city": "gladstone",
+        "coordinates": {
+          "latitude": "-42.3492",
+          "longitude": "-155.9703"
+        },
+        "postcode": 691,
+        "state": "western australia",
+        "street": "827 oak lawn ave",
+        "timezone": {
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent",
+          "offset": "+5:00"
+        }
+      },
+      "name": {
+        "first": "greg",
+        "last": "shaw",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/42.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+      }
+    },
+    {
+      "email": "marion.martinez@example.com",
+      "id": 10014,
+      "location": {
+        "city": "queanbeyan",
+        "coordinates": {
+          "latitude": "-79.1057",
+          "longitude": "113.0246"
+        },
+        "postcode": 8410,
+        "state": "victoria",
+        "street": "6085 depaul dr",
+        "timezone": {
+          "description": "Azores, Cape Verde Islands",
+          "offset": "-1:00"
+        }
+      },
+      "name": {
+        "first": "marion",
+        "last": "martinez",
+        "title": "miss"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/82.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+      }
+    },
+    {
+      "email": "wallace.boyd@example.com",
+      "id": 10015,
+      "location": {
+        "city": "orange",
+        "coordinates": {
+          "latitude": "63.7603",
+          "longitude": "63.9760"
+        },
+        "postcode": 1908,
+        "state": "south australia",
+        "street": "2918 eason rd",
+        "timezone": {
+          "description": "Kabul",
+          "offset": "+4:30"
+        }
+      },
+      "name": {
+        "first": "wallace",
+        "last": "boyd",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/0.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+      }
+    },
+    {
+      "email": "benjamin.williams@example.com",
+      "id": 10016,
+      "location": {
+        "city": "kalgoorlie",
+        "coordinates": {
+          "latitude": "86.9779",
+          "longitude": "-128.5182"
+        },
+        "postcode": 4033,
+        "state": "northern territory",
+        "street": "3053 n stelling rd",
+        "timezone": {
+          "description": "Kabul",
+          "offset": "+4:30"
+        }
+      },
+      "name": {
+        "first": "benjamin",
+        "last": "williams",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/81.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+      }
+    },
+    {
+      "email": "eli.mills@example.com",
+      "id": 10017,
+      "location": {
+        "city": "bendigo",
+        "coordinates": {
+          "latitude": "-43.0610",
+          "longitude": "-171.3254"
+        },
+        "postcode": 8444,
+        "state": "western australia",
+        "street": "6381 groveland terrace",
+        "timezone": {
+          "description": "Eastern Australia, Guam, Vladivostok",
+          "offset": "+10:00"
+        }
+      },
+      "name": {
+        "first": "eli",
+        "last": "mills",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/0.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+      }
+    },
+    {
+      "email": "philip.gonzalez@example.com",
+      "id": 10018,
+      "location": {
+        "city": "australian capital territory",
+        "coordinates": {
+          "latitude": "-12.7203",
+          "longitude": "-41.5995"
+        },
+        "postcode": 3238,
+        "state": "western australia",
+        "street": "7139 w 6th st",
+        "timezone": {
+          "description": "Atlantic Time (Canada), Caracas, La Paz",
+          "offset": "-4:00"
+        }
+      },
+      "name": {
+        "first": "philip",
+        "last": "gonzalez",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/13.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+      }
+    },
+    {
+      "email": "sofia.walters@example.com",
+      "id": 10019,
+      "location": {
+        "city": "traralgon",
+        "coordinates": {
+          "latitude": "-47.1498",
+          "longitude": "-14.0132"
+        },
+        "postcode": 8021,
+        "state": "western australia",
+        "street": "8512 elgin st",
+        "timezone": {
+          "description": "Mountain Time (US & Canada)",
+          "offset": "-7:00"
+        }
+      },
+      "name": {
+        "first": "sofia",
+        "last": "walters",
+        "title": "miss"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/28.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+      }
+    }
+  ]
+}
