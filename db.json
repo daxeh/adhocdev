@@ -1,283 +1,143 @@
 {
   "users": [
     {
-      "email": "megan.parker@example.com",
+      "email": "samantha.gonzalez@example.com",
       "id": 10000,
       "location": {
-        "city": "mildura",
+        "city": "bundaberg",
         "coordinates": {
-          "latitude": "-86.4138",
-          "longitude": "70.6193"
+          "latitude": "2.1179",
+          "longitude": "29.1179"
         },
-        "postcode": 613,
-        "state": "northern territory",
-        "street": "4115 e sandy lake rd",
+        "postcode": 5503,
+        "state": "western australia",
+        "street": "5877 westheimer rd",
         "timezone": {
-          "description": "Adelaide, Darwin",
-          "offset": "+9:30"
+          "description": "Kathmandu",
+          "offset": "+5:45"
         }
       },
       "name": {
-        "first": "megan",
-        "last": "parker",
-        "title": "ms"
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/34.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
-      }
-    },
-    {
-      "email": "raymond.thomas@example.com",
-      "id": 10001,
-      "location": {
-        "city": "ballarat",
-        "coordinates": {
-          "latitude": "-86.5227",
-          "longitude": "99.2235"
-        },
-        "postcode": 9174,
-        "state": "new south wales",
-        "street": "6053 ranchview dr",
-        "timezone": {
-          "description": "Almaty, Dhaka, Colombo",
-          "offset": "+6:00"
-        }
-      },
-      "name": {
-        "first": "raymond",
-        "last": "thomas",
-        "title": "mr"
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/58.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
-      }
-    },
-    {
-      "email": "riley.watkins@example.com",
-      "id": 10002,
-      "location": {
-        "city": "geraldton",
-        "coordinates": {
-          "latitude": "7.7945",
-          "longitude": "69.4958"
-        },
-        "postcode": 3653,
-        "state": "south australia",
-        "street": "7829 oak ridge ln",
-        "timezone": {
-          "description": "Tehran",
-          "offset": "+3:30"
-        }
-      },
-      "name": {
-        "first": "riley",
-        "last": "watkins",
+        "first": "samantha",
+        "last": "gonzalez",
         "title": "miss"
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/36.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+        "large": "https://randomuser.me/api/portraits/women/16.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
       }
     },
     {
-      "email": "eduardo.mitchell@example.com",
-      "id": 10003,
+      "email": "louella.powell@example.com",
+      "id": 10001,
       "location": {
-        "city": "shepparton",
+        "city": "townsville",
         "coordinates": {
-          "latitude": "-14.1578",
-          "longitude": "13.4848"
+          "latitude": "-77.9620",
+          "longitude": "73.7987"
         },
-        "postcode": 8313,
-        "state": "victoria",
-        "street": "3897 w 6th st",
-        "timezone": {
-          "description": "Midway Island, Samoa",
-          "offset": "-11:00"
-        }
-      },
-      "name": {
-        "first": "eduardo",
-        "last": "mitchell",
-        "title": "mr"
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/56.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
-      }
-    },
-    {
-      "email": "alvin.carroll@example.com",
-      "id": 10004,
-      "location": {
-        "city": "bunbury",
-        "coordinates": {
-          "latitude": "-22.1257",
-          "longitude": "71.8216"
-        },
-        "postcode": 3773,
-        "state": "northern territory",
-        "street": "7229 dogwood ave",
-        "timezone": {
-          "description": "Tehran",
-          "offset": "+3:30"
-        }
-      },
-      "name": {
-        "first": "alvin",
-        "last": "carroll",
-        "title": "mr"
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/69.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
-      }
-    },
-    {
-      "email": "harold.fuller@example.com",
-      "id": 10005,
-      "location": {
-        "city": "hervey bay",
-        "coordinates": {
-          "latitude": "-83.8169",
-          "longitude": "71.4568"
-        },
-        "postcode": 6202,
-        "state": "victoria",
-        "street": "4412 walnut hill ln",
-        "timezone": {
-          "description": "Newfoundland",
-          "offset": "-3:30"
-        }
-      },
-      "name": {
-        "first": "harold",
-        "last": "fuller",
-        "title": "mr"
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/57.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
-      }
-    },
-    {
-      "email": "courtney.arnold@example.com",
-      "id": 10006,
-      "location": {
-        "city": "perth",
-        "coordinates": {
-          "latitude": "2.0703",
-          "longitude": "88.9576"
-        },
-        "postcode": 6993,
-        "state": "new south wales",
-        "street": "482 bollinger rd",
+        "postcode": 6866,
+        "state": "queensland",
+        "street": "7515 e sandy lake rd",
         "timezone": {
           "description": "Beijing, Perth, Singapore, Hong Kong",
           "offset": "+8:00"
         }
       },
       "name": {
-        "first": "courtney",
-        "last": "arnold",
-        "title": "ms"
+        "first": "louella",
+        "last": "powell",
+        "title": "mrs"
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/65.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+        "large": "https://randomuser.me/api/portraits/women/22.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
       }
     },
     {
-      "email": "gina.mcdonalid@example.com",
-      "id": 10007,
+      "email": "holly.steward@example.com",
+      "id": 10002,
       "location": {
-        "city": "port macquarie",
+        "city": "orange",
         "coordinates": {
-          "latitude": "5.9043",
-          "longitude": "-8.2950"
+          "latitude": "-35.1653",
+          "longitude": "93.0609"
         },
-        "postcode": 4010,
-        "state": "new south wales",
-        "street": "7664 eason rd",
+        "postcode": 6391,
+        "state": "queensland",
+        "street": "9074 poplar dr",
         "timezone": {
-          "description": "Hawaii",
-          "offset": "-10:00"
+          "description": "Almaty, Dhaka, Colombo",
+          "offset": "+6:00"
         }
       },
       "name": {
-        "first": "gina",
-        "last": "mcdonalid",
+        "first": "holly",
+        "last": "steward",
         "title": "miss"
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/70.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+        "large": "https://randomuser.me/api/portraits/women/27.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
       }
     },
     {
-      "email": "amanda.simmons@example.com",
-      "id": 10008,
+      "email": "georgia.wilson@example.com",
+      "id": 10003,
       "location": {
-        "city": "port macquarie",
+        "city": "perth",
         "coordinates": {
-          "latitude": "17.7623",
-          "longitude": "-48.7410"
+          "latitude": "41.7988",
+          "longitude": "138.9060"
         },
-        "postcode": 4251,
-        "state": "south australia",
-        "street": "991 taylor st",
+        "postcode": 9369,
+        "state": "australian capital territory",
+        "street": "8754 taylor st",
         "timezone": {
-          "description": "Alaska",
-          "offset": "-9:00"
+          "description": "Western Europe Time, London, Lisbon, Casablanca",
+          "offset": "0:00"
         }
       },
       "name": {
-        "first": "amanda",
-        "last": "simmons",
-        "title": "miss"
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/86.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
-      }
-    },
-    {
-      "email": "hazel.wade@example.com",
-      "id": 10009,
-      "location": {
-        "city": "maitland",
-        "coordinates": {
-          "latitude": "36.7295",
-          "longitude": "-40.2588"
-        },
-        "postcode": 2427,
-        "state": "western australia",
-        "street": "1667 railroad st",
-        "timezone": {
-          "description": "Magadan, Solomon Islands, New Caledonia",
-          "offset": "+11:00"
-        }
-      },
-      "name": {
-        "first": "hazel",
-        "last": "wade",
+        "first": "georgia",
+        "last": "wilson",
         "title": "ms"
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/5.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+        "large": "https://randomuser.me/api/portraits/women/0.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
+      }
+    },
+    {
+      "email": "chad.fox@example.com",
+      "id": 10004,
+      "location": {
+        "city": "brisbane",
+        "coordinates": {
+          "latitude": "-30.5173",
+          "longitude": "-77.0679"
+        },
+        "postcode": 4662,
+        "state": "victoria",
+        "street": "6860 paddock way",
+        "timezone": {
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg",
+          "offset": "+3:00"
+        }
+      },
+      "name": {
+        "first": "chad",
+        "last": "fox",
+        "title": "mr"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/19.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
       }
     }
   ]
